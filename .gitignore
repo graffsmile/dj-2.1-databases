@@ -1,0 +1,9 @@
+/.venv/
+/models_list_displaying/.venv/
+/models_list_displaying/config.env
+/models_list_displaying/__pycache__/
+/.idea/
+/work_with_database/.idea/
+/work_with_database/.venv/
+/work_with_database/config.env
+/work_with_database/__pycache__/
